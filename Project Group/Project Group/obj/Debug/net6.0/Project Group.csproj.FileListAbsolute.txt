@@ -1,0 +1,30 @@
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/bin/Debug/net6.0/Project Group.exe
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/bin/Debug/net6.0/Project Group.deps.json
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/bin/Debug/net6.0/Project Group.runtimeconfig.json
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/bin/Debug/net6.0/Project Group.dll
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/bin/Debug/net6.0/Project Group.pdb
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.csproj.AssemblyReference.cache
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.GeneratedMSBuildEditorConfig.editorconfig
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.AssemblyInfoInputs.cache
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.AssemblyInfo.cs
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.csproj.CoreCompileInputs.cache
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.dll
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/refint/Project Group.dll
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.pdb
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/Project Group.genruntimeconfig.cache
+D:/UOC FOS (My Notes)/3 yr/CS 3101/Vishual Studio/Project Group/Project Group/obj/Debug/net6.0/ref/Project Group.dll
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/bin/Debug/net6.0/Project Group
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/bin/Debug/net6.0/Project Group.deps.json
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/bin/Debug/net6.0/Project Group.runtimeconfig.json
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/bin/Debug/net6.0/Project Group.dll
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/bin/Debug/net6.0/Project Group.pdb
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.csproj.AssemblyReference.cache
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.AssemblyInfoInputs.cache
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.AssemblyInfo.cs
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.csproj.CoreCompileInputs.cache
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.dll
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/refint/Project Group.dll
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.pdb
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/Project Group.genruntimeconfig.cache
+/Users/madhushankadds/Downloads/C# Console Application for a Library Mgt. System/Project Group/Project Group/obj/Debug/net6.0/ref/Project Group.dll
