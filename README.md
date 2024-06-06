@@ -30,6 +30,10 @@ The Library Management System is a console-based application developed in C#. It
 
 12. **Display Overdue Books**: Shows a list of books that are overdue for return, along with the member and due date.
 
+**UML Diagram:**
+
+<img width="678" alt="The UML Class Diagram for the Library management System" src="https://github.com/SachithMadhushanka/Library-Management-System/assets/131949127/b2988e5c-20ba-40e9-a705-1c98b58dfb17">
+
 **Classes:**
 
 - **Program**: Contains the main method to start the application and handle user interactions through a menu-based interface.
